@@ -10,4 +10,4 @@ Initially strating with the Linear regression:
 ## Ridge and Lasso Regularization Techniques
 These techniques are applied for better comparison
 - Graphs are made for better visualization of the change of RMSE with change of Hyperparameter (alpha).
-- Best alphas are calculated 
+- Best alphas are calculated from Ridge and Lasso and are compared with the best alpha by Sklearn GridSearch
